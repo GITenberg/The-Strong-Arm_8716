@@ -1,5 +1,8 @@
 _repo: The-Strong-Arm_8716
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barr, Robert
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1616
     wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8716#The-Strong-Arm
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
